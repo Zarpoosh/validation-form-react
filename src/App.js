@@ -1,7 +1,7 @@
 import React from "react";
 import { useFormik } from "formik";
 import * as Yup from "yup";
-import { FaRegEye } from "react-icons/fa";
+// import { FaRegEye } from "react-icons/fa";
 import "./App.css";
 // ترکیب formik & yup
 
