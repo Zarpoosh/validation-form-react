@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/validation-form-react%20%20/static/css/main.431630e3.css",
+    "main.js": "/validation-form-react%20%20/static/js/main.0bf48214.js",
+    "static/media/siriapps_nature_54275.jpg": "/validation-form-react%20%20/static/media/siriapps_nature_54275.af1c7549bf0ddfa46b70.jpg",
+    "index.html": "/validation-form-react%20%20/index.html",
+    "main.431630e3.css.map": "/validation-form-react%20%20/static/css/main.431630e3.css.map",
+    "main.0bf48214.js.map": "/validation-form-react%20%20/static/js/main.0bf48214.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.431630e3.css",
+    "static/js/main.0bf48214.js"
+  ]
+}
